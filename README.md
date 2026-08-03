@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="left">
 
-<!--
-**ArshMalhi/ArshMalhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
+███╗   ██╗███████╗██████╗ ██╗   ██╗
+████╗  ██║██╔════╝██╔══██╗██║   ██║
+██╔██╗ ██║█████╗  ██████╔╝██║   ██║
+██║╚██╗██║██╔══╝  ██╔══██╗╚██╗ ██╔╝
+██║ ╚████║███████╗██║  ██║ ╚████╔╝
+╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝  ╚═══╝
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![STATUS](https://img.shields.io/badge/SYSTEM-ONLINE-00ff41?style=flat-square&labelColor=000000)
+![PATTERN](https://img.shields.io/badge/PATTERN-BLUE-0066ff?style=flat-square&labelColor=000000)
+![SYNC](https://img.shields.io/badge/SYNC-99.9%25-ff9900?style=flat-square&labelColor=000000)
+
+</div>
+
+---
+
+```yaml
+Name:    "Arsh Malhi"
+Role:    "Software Developer"
+Contact: "arshmalhi0@gmail.com"
+```
+
+<div align="center">
+
+
+<br>
+
+`"God's in his heaven. All's right with the world."`
+
+</div>
