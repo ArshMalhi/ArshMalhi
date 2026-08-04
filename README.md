@@ -31,8 +31,8 @@
 ```
 
 ![STATUS](https://img.shields.io/badge/SYSTEM-ONLINE-ff0000?style=flat-square&labelColor=000000)
-![UPTIME](https://img.shields.io/badge/UPTIME-99.98%25-00ff41?style=flat-square&labelColor=000000)
-![LATENCY](https://img.shields.io/badge/LATENCY-12ms-0066ff?style=flat-square&labelColor=000000)
+![UPTIME](https://img.shields.io/badge/UPTIME-99.98%25-ff0000?style=flat-square&labelColor=000000)
+![LATENCY](https://img.shields.io/badge/LATENCY-12ms-ff0000?style=flat-square&labelColor=000000)
 
 </div>
 
